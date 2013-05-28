@@ -1036,7 +1036,7 @@
         // Initialize the ui, passing the user preferences
         ui.initialize(state.preferences);
 
-        ui.addMessage('Invitor#2, Welcome to ' + originalTitle, 'notification');
+        ui.addMessage('Invitor#4, Welcome to ' + originalTitle, 'notification');
         ui.addMessage('Use ? or type /? to display the FAQ and list of commands', 'notification');
 
         function initConnection() {
